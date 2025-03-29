@@ -115,11 +115,13 @@
      <section id="about">
          <div class="section-content">
              <h2>About Me</h2>
-             <p>I'm a <b>COMPUTER APPLICATION STUDENT</b> expert who is passionate about creating dynamic and user-friendly websites. 
-                 I'm driven by the desire to craft high-performance web applications that enhance user experience and provide
-                  seamless digital solutions. With over 2 years of experience in the field, I'm dedicated to staying up to date 
-                  with the latest trends and innovations in the 
-                  Computing landscape.Iam so into programming languages like python,java,c++.etc..
+             <p>I'm a <b>COMPUTER APPLICATION STUDENT</b>
+              "I am suij an experienced programmer proficient in Python, C++, and Java. 
+          I have a deep understanding of data structures and algorithms, including binary trees,
+          AVL trees, B-trees, B+ trees, merge sort, selection sort, bubble sort, and linear search.
+          I have also completed certification courses in Artificial Intelligence and Machine Learning.
+          Outside of my technical expertise, I actively engage in extracurricular activities like Drawing
+          and I am passionate about continuously enhancing my skills by learning new technologies and tools."
                 </p>
  
          </div>
@@ -138,13 +140,10 @@
          <div class="section-content">
              <h2>Skills</h2>
              <ul>
-                 <li>Cloud Computing</li>
                  <li>Python</li>
-                 <li>Spring</li>
                  <li>ML & AI</li>
                  <li>java</li>
                  <li>c++</li>
-                 <li>Java script</li>
              </ul>
          </div>
      </section>
